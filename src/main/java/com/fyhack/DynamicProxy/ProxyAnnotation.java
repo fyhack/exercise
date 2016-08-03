@@ -17,5 +17,5 @@ import java.lang.reflect.Proxy;
 @Retention(RetentionPolicy.RUNTIME)
 @Target(ElementType.METHOD)
 public @interface ProxyAnnotation {
-    public Class getProxyClass();
+    Class getProxyClass();
 }

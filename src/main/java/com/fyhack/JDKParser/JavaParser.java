@@ -10,7 +10,6 @@ import com.sun.tools.javac.util.Context;
 import javax.tools.JavaCompiler;
 import javax.tools.JavaFileObject;
 import java.io.IOException;
-import java.lang.reflect.Proxy;
 import java.nio.charset.Charset;
 import java.util.List;
 
