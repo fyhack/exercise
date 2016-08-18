@@ -15,6 +15,7 @@ import java.rmi.registry.Registry;
  * @since 2016/8/3
  */
 public class Client {
+
     public static RemoteCGI cgi;
 
     public static void main(String args[]){
